@@ -1,0 +1,1167 @@
+{
+  "leads": [
+    {
+      "id": "lead_dhaka_01",
+      "companyName": "Apex Knits & Garments Ltd",
+      "leadName": "Tanvir Ahmed",
+      "initialEmail": "t.ahmed@apexknits-bd.com",
+      "initialPhone": "+880 1711-884920",
+      "country": "Bangladesh",
+      "status": "new_lead",
+      "currentStep": 1,
+      "createdAt": "2026-10-24T06:27:52.811Z",
+      "lastActivityAt": "2026-10-24T06:27:52.811Z",
+      "nextActionDueAt": "2026-10-24T06:57:52.811Z",
+      "crmFields": {
+        "contactPersonResponsible": "",
+        "directEmailId": "",
+        "phoneWhatsApp": "",
+        "yarnCountsFabricItems": "",
+        "approximateQuantityPerMonth": "",
+        "destinationPortCnf": "",
+        "notes": "Import sourcing inquiry received from Dhaka trade portal."
+      },
+      "emailLogs": [],
+      "callAttempts": [],
+      "history": [
+        {
+          "id": "hist_1",
+          "timestamp": "2026-10-24T06:27:52.811Z",
+          "action": "Lead Created",
+          "details": "Imported from Dhaka Textile Directory with status New Lead.",
+          "actor": "System Automation"
+        }
+      ],
+      "assignedTo": "Rohit Sharma (Exports)",
+      "isDripActive": true
+    },
+    {
+      "id": "lead_vietnam_02",
+      "companyName": "Phong Phu Textile Corp",
+      "leadName": "Nguyen Van Minh",
+      "initialEmail": "minh.nguyen@phongphutex.vn",
+      "initialPhone": "+84 90 384 1928",
+      "country": "Vietnam",
+      "status": "mail_1_sent",
+      "currentStep": 1,
+      "createdAt": "2026-10-19T06:57:52.811Z",
+      "lastActivityAt": "2026-10-19T06:57:52.811Z",
+      "nextActionDueAt": "2026-10-23T06:57:52.811Z",
+      "crmFields": {
+        "contactPersonResponsible": "",
+        "directEmailId": "",
+        "phoneWhatsApp": "",
+        "yarnCountsFabricItems": "",
+        "approximateQuantityPerMonth": "",
+        "destinationPortCnf": "",
+        "notes": "Leading denim manufacturer in Ho Chi Minh City."
+      },
+      "emailLogs": [
+        {
+          "id": "email_log_vn_1",
+          "step": 1,
+          "subject": "Quality Cotton Yarns & Fabrics for Phong Phu Textile Corp",
+          "body": "Hi Nguyen Van Minh,\nI hope this email finds you well...\n[Full 1st Email Sent]",
+          "sentAt": "2026-10-19T06:57:52.811Z",
+          "sender": "Rajesh Lahoti (Exports)",
+          "recipient": "minh.nguyen@phongphutex.vn",
+          "status": "sent"
+        }
+      ],
+      "callAttempts": [],
+      "history": [
+        {
+          "id": "hist_2a",
+          "timestamp": "2026-10-19T06:57:52.811Z",
+          "action": "Lead Created",
+          "details": "Added as New Lead",
+          "actor": "System"
+        },
+        {
+          "id": "hist_2b",
+          "timestamp": "2026-10-19T06:57:52.811Z",
+          "action": "1st Mail Sent",
+          "details": "Drip Email #1 sent. Information collection form included.",
+          "actor": "Drip Workflow Bot"
+        }
+      ],
+      "assignedTo": "Vikram Mehta (VP Sales)",
+      "isDripActive": true
+    },
+    {
+      "id": "lead_turkey_03",
+      "companyName": "Sanko Holding Tekstil A.S.",
+      "leadName": "Murat Yilmaz",
+      "initialEmail": "m.yilmaz@sankotekstil.com.tr",
+      "initialPhone": "+90 342 211 5000",
+      "country": "Turkey",
+      "status": "info_received",
+      "currentStep": 1,
+      "createdAt": "2026-10-18T06:57:52.811Z",
+      "lastActivityAt": "2026-10-24T04:57:52.811Z",
+      "nextActionDueAt": null,
+      "crmFields": {
+        "contactPersonResponsible": "Murat Yilmaz (Head of Yarn Sourcing)",
+        "directEmailId": "m.yilmaz@sankotekstil.com.tr",
+        "phoneWhatsApp": "+90 532 984 2190",
+        "yarnCountsFabricItems": "30s Combed Compact Weaving, 40s Compact",
+        "approximateQuantityPerMonth": "3 x 40FT HC (75 MT)",
+        "destinationPortCnf": "Mersin Port, Turkey",
+        "notes": "Customer replied to 1st mail. Ready for spot CNF quotation."
+      },
+      "emailLogs": [
+        {
+          "id": "email_log_tr_1",
+          "step": 1,
+          "subject": "Quality Cotton Yarns & Fabrics for Sanko Holding Tekstil A.S.",
+          "body": "Hi Murat Yilmaz,\nI hope this email finds you well...",
+          "sentAt": "2026-10-18T06:57:52.811Z",
+          "sender": "Rajesh Lahoti (Exports)",
+          "recipient": "m.yilmaz@sankotekstil.com.tr",
+          "status": "replied",
+          "repliedAt": "2026-10-24T04:57:52.811Z",
+          "replyText": "Hi Rajesh,\n\nThank you for reaching out. Here are the requested procurement details:\nContact Person Responsible Name: Murat Yilmaz (Head of Yarn Sourcing)\nDirect Email ID: m.yilmaz@sankotekstil.com.tr\nPhone No/ Whats App: +90 532 984 2190\nYarn Counts / Fabric Items you buy: 30s Combed Compact Weaving, 40s Compact\nApproximate Quantity (per month): 3 x 40FT HC (75 MT)\nRequired Destination Port (CNF): Mersin Port, Turkey\n\nPlease send spot price per kg CNF Mersin for 100% Cotton 30s Compact.\nBest regards,\nMurat",
+          "extractedFields": {
+            "contactPersonResponsible": "Murat Yilmaz (Head of Yarn Sourcing)",
+            "directEmailId": "m.yilmaz@sankotekstil.com.tr",
+            "phoneWhatsApp": "+90 532 984 2190",
+            "yarnCountsFabricItems": "30s Combed Compact Weaving, 40s Compact",
+            "approximateQuantityPerMonth": "3 x 40FT HC (75 MT)",
+            "destinationPortCnf": "Mersin Port, Turkey"
+          }
+        }
+      ],
+      "callAttempts": [],
+      "history": [
+        {
+          "id": "hist_3a",
+          "timestamp": "2026-10-18T06:57:52.811Z",
+          "action": "1st Mail Sent",
+          "details": "Sent 1st email introducing Lahoti capabilities.",
+          "actor": "Drip Workflow Bot"
+        },
+        {
+          "id": "hist_3b",
+          "timestamp": "2026-10-24T04:57:52.811Z",
+          "action": "Reply Auto-Parsed & CRM Updated",
+          "details": "Extracted 6 CRM fields: Contact, Phone, Counts (30s/40s Compact), Qty (75 MT), CNF Mersin. Status set to Information Received.",
+          "actor": "AI/NLP Parser"
+        }
+      ],
+      "assignedTo": "Amitabh Lahoti (Director)",
+      "isDripActive": false
+    },
+    {
+      "id": "lead_portugal_04",
+      "companyName": "Somelos Tecidos S.A.",
+      "leadName": "António Ferreira",
+      "initialEmail": "antonio.ferreira@somelos.pt",
+      "initialPhone": "+351 253 470 100",
+      "country": "Portugal",
+      "status": "mail_3_sent",
+      "currentStep": 3,
+      "createdAt": "2026-10-12T06:57:52.811Z",
+      "lastActivityAt": "2026-10-20T06:57:52.811Z",
+      "nextActionDueAt": "2026-10-23T20:57:52.811Z",
+      "crmFields": {
+        "contactPersonResponsible": "",
+        "directEmailId": "",
+        "phoneWhatsApp": "+351 253 470 100",
+        "yarnCountsFabricItems": "",
+        "approximateQuantityPerMonth": "",
+        "destinationPortCnf": "Leixoes Port",
+        "notes": "Premium shirting & weaving mill in Guimarães."
+      },
+      "emailLogs": [
+        {
+          "id": "email_pt_1",
+          "step": 1,
+          "subject": "Quality Cotton Yarns & Fabrics for Somelos Tecidos S.A.",
+          "body": "Hi António Ferreira,\n...",
+          "sentAt": "2026-10-12T06:57:52.811Z",
+          "sender": "Rajesh Lahoti",
+          "recipient": "antonio.ferreira@somelos.pt",
+          "status": "sent"
+        },
+        {
+          "id": "email_pt_2",
+          "step": 2,
+          "subject": "Re: Quality Cotton Yarns & Fabrics for Somelos Tecidos S.A. / Reliable Global Supply",
+          "body": "Hi António,\nI know how busy things get...",
+          "sentAt": "2026-10-16T06:57:52.811Z",
+          "sender": "Rajesh Lahoti",
+          "recipient": "antonio.ferreira@somelos.pt",
+          "status": "sent"
+        },
+        {
+          "id": "email_pt_3",
+          "step": 3,
+          "subject": "Streamlining your yarn supply chain / Somelos Tecidos S.A.",
+          "body": "Hi António,\nFollowing up on my previous messages...",
+          "sentAt": "2026-10-20T06:57:52.811Z",
+          "sender": "Rajesh Lahoti",
+          "recipient": "antonio.ferreira@somelos.pt",
+          "status": "sent"
+        }
+      ],
+      "callAttempts": [],
+      "history": [
+        {
+          "id": "hist_4a",
+          "timestamp": "2026-10-12T06:57:52.811Z",
+          "action": "1st Mail Sent",
+          "details": "Initial email sent.",
+          "actor": "System"
+        },
+        {
+          "id": "hist_4b",
+          "timestamp": "2026-10-16T06:57:52.811Z",
+          "action": "2nd Mail Sent (4-day Trigger)",
+          "details": "No response after 4 days. Follow-up email 2 sent.",
+          "actor": "Drip Engine"
+        },
+        {
+          "id": "hist_4c",
+          "timestamp": "2026-10-20T06:57:52.811Z",
+          "action": "3rd Mail Sent (4-day Trigger)",
+          "details": "No response after another 4 days. Final value email 3 sent.",
+          "actor": "Drip Engine"
+        },
+        {
+          "id": "hist_4d",
+          "timestamp": "2026-10-23T20:57:52.811Z",
+          "action": "Assigned to Sales Rep for Calling",
+          "details": "4 days elapsed after 3rd mail. Triggered Step 4: Phone call follow-up.",
+          "actor": "Workflow Engine"
+        }
+      ],
+      "assignedTo": "Rohit Sharma (Exports)",
+      "isDripActive": true
+    },
+    {
+      "id": "lead_brazil_05",
+      "companyName": "Fiacao Sao Bento Ltda",
+      "leadName": "Lucas Oliveira",
+      "initialEmail": "lucas@fiacaosaobento.com.br",
+      "initialPhone": "+55 11 98765-4321",
+      "country": "Brazil",
+      "status": "not_reachable",
+      "currentStep": 4,
+      "createdAt": "2026-10-06T06:57:52.811Z",
+      "lastActivityAt": "2026-10-23T06:57:52.811Z",
+      "nextActionDueAt": null,
+      "crmFields": {
+        "contactPersonResponsible": "Lucas Oliveira",
+        "directEmailId": "lucas@fiacaosaobento.com.br",
+        "phoneWhatsApp": "+55 11 98765-4321",
+        "yarnCountsFabricItems": "",
+        "approximateQuantityPerMonth": "",
+        "destinationPortCnf": "Santos Port",
+        "notes": "No response to 3 emails. 2 phone call attempts went unanswered."
+      },
+      "emailLogs": [
+        {
+          "id": "em_br_1",
+          "step": 1,
+          "subject": "Quality Cotton Yarns & Fabrics for Fiacao Sao Bento Ltda",
+          "body": "...",
+          "sentAt": "2026-10-06T06:57:52.811Z",
+          "sender": "Rajesh Lahoti",
+          "recipient": "lucas@fiacaosaobento.com.br",
+          "status": "sent"
+        },
+        {
+          "id": "em_br_2",
+          "step": 2,
+          "subject": "Re: Quality Cotton Yarns & Fabrics / Reliable Supply",
+          "body": "...",
+          "sentAt": "2026-10-10T06:57:52.811Z",
+          "sender": "Rajesh Lahoti",
+          "recipient": "lucas@fiacaosaobento.com.br",
+          "status": "sent"
+        },
+        {
+          "id": "em_br_3",
+          "step": 3,
+          "subject": "Streamlining your yarn supply chain / Fiacao Sao Bento Ltda",
+          "body": "...",
+          "sentAt": "2026-10-14T06:57:52.811Z",
+          "sender": "Rajesh Lahoti",
+          "recipient": "lucas@fiacaosaobento.com.br",
+          "status": "sent"
+        }
+      ],
+      "callAttempts": [
+        {
+          "id": "call_br_1",
+          "attemptNumber": 1,
+          "attemptedAt": "2026-10-21T06:57:52.811Z",
+          "callerName": "Rohit Sharma",
+          "outcome": "no_answer",
+          "notes": "Rang 6 times, went to Brazilian Portuguese automated voicemail."
+        },
+        {
+          "id": "call_br_2",
+          "attemptNumber": 2,
+          "attemptedAt": "2026-10-23T06:57:52.811Z",
+          "callerName": "Rohit Sharma",
+          "outcome": "switched_off",
+          "notes": "Number switched off / network unreachable. 2nd failed attempt."
+        }
+      ],
+      "history": [
+        {
+          "id": "hist_5a",
+          "timestamp": "2026-10-21T06:57:52.811Z",
+          "action": "Phone Call Attempt 1 Logged (Unsuccessful)",
+          "details": "Outcome: No Answer (Voicemail). Next attempt required.",
+          "actor": "Rohit Sharma"
+        },
+        {
+          "id": "hist_5b",
+          "timestamp": "2026-10-23T06:57:52.811Z",
+          "action": "Phone Call Attempt 2 Logged (Unsuccessful)",
+          "details": "Outcome: Switched Off. 2 failed attempts reached.",
+          "actor": "Rohit Sharma"
+        },
+        {
+          "id": "hist_5c",
+          "timestamp": "2026-10-23T06:57:52.811Z",
+          "action": "Status Changed to Not Reachable",
+          "details": "Automatic rule triggered: 2 consecutive failed phone calls after 3 unreplied drip emails. Drip halted.",
+          "actor": "Workflow Engine Rule"
+        }
+      ],
+      "assignedTo": "Rohit Sharma (Exports)",
+      "isDripActive": false
+    },
+    {
+      "id": "acc_0",
+      "name": "Account 0"
+    },
+    {
+      "id": "acc_1",
+      "name": "Account 1"
+    },
+    {
+      "id": "acc_2",
+      "name": "Account 2"
+    },
+    {
+      "id": "acc_3",
+      "name": "Account 3"
+    },
+    {
+      "id": "acc_4",
+      "name": "Account 4"
+    },
+    {
+      "id": "acc_5",
+      "name": "Account 5"
+    },
+    {
+      "id": "acc_6",
+      "name": "Account 6"
+    },
+    {
+      "id": "acc_7",
+      "name": "Account 7"
+    },
+    {
+      "id": "acc_8",
+      "name": "Account 8"
+    },
+    {
+      "id": "acc_9",
+      "name": "Account 9"
+    },
+    {
+      "id": "acc_10",
+      "name": "Account 10"
+    },
+    {
+      "id": "acc_11",
+      "name": "Account 11"
+    },
+    {
+      "id": "acc_12",
+      "name": "Account 12"
+    },
+    {
+      "id": "acc_13",
+      "name": "Account 13"
+    },
+    {
+      "id": "acc_14",
+      "name": "Account 14"
+    },
+    {
+      "id": "acc_15",
+      "name": "Account 15"
+    },
+    {
+      "id": "acc_16",
+      "name": "Account 16"
+    },
+    {
+      "id": "acc_17",
+      "name": "Account 17"
+    },
+    {
+      "id": "acc_18",
+      "name": "Account 18"
+    },
+    {
+      "id": "acc_19",
+      "name": "Account 19"
+    },
+    {
+      "id": "acc_20",
+      "name": "Account 20"
+    },
+    {
+      "id": "acc_21",
+      "name": "Account 21"
+    },
+    {
+      "id": "acc_22",
+      "name": "Account 22"
+    },
+    {
+      "id": "acc_23",
+      "name": "Account 23"
+    },
+    {
+      "id": "acc_24",
+      "name": "Account 24"
+    },
+    {
+      "id": "acc_25",
+      "name": "Account 25"
+    },
+    {
+      "id": "acc_26",
+      "name": "Account 26"
+    },
+    {
+      "id": "acc_27",
+      "name": "Account 27"
+    },
+    {
+      "id": "acc_28",
+      "name": "Account 28"
+    },
+    {
+      "id": "acc_29",
+      "name": "Account 29"
+    },
+    {
+      "id": "acc_30",
+      "name": "Account 30"
+    },
+    {
+      "id": "acc_31",
+      "name": "Account 31"
+    },
+    {
+      "id": "acc_32",
+      "name": "Account 32"
+    },
+    {
+      "id": "acc_33",
+      "name": "Account 33"
+    },
+    {
+      "id": "acc_34",
+      "name": "Account 34"
+    },
+    {
+      "id": "acc_35",
+      "name": "Account 35"
+    },
+    {
+      "id": "acc_36",
+      "name": "Account 36"
+    },
+    {
+      "id": "acc_37",
+      "name": "Account 37"
+    },
+    {
+      "id": "acc_38",
+      "name": "Account 38"
+    },
+    {
+      "id": "acc_39",
+      "name": "Account 39"
+    },
+    {
+      "id": "acc_40",
+      "name": "Account 40"
+    },
+    {
+      "id": "acc_41",
+      "name": "Account 41"
+    },
+    {
+      "id": "acc_42",
+      "name": "Account 42"
+    },
+    {
+      "id": "acc_43",
+      "name": "Account 43"
+    },
+    {
+      "id": "acc_44",
+      "name": "Account 44"
+    },
+    {
+      "id": "acc_45",
+      "name": "Account 45"
+    },
+    {
+      "id": "acc_46",
+      "name": "Account 46"
+    },
+    {
+      "id": "acc_47",
+      "name": "Account 47"
+    },
+    {
+      "id": "acc_48",
+      "name": "Account 48"
+    },
+    {
+      "id": "acc_49",
+      "name": "Account 49"
+    },
+    {
+      "id": "acc_50",
+      "name": "Account 50"
+    },
+    {
+      "id": "acc_51",
+      "name": "Account 51"
+    },
+    {
+      "id": "acc_52",
+      "name": "Account 52"
+    },
+    {
+      "id": "acc_53",
+      "name": "Account 53"
+    },
+    {
+      "id": "acc_54",
+      "name": "Account 54"
+    },
+    {
+      "id": "acc_55",
+      "name": "Account 55"
+    },
+    {
+      "id": "acc_56",
+      "name": "Account 56"
+    },
+    {
+      "id": "acc_57",
+      "name": "Account 57"
+    },
+    {
+      "id": "acc_58",
+      "name": "Account 58"
+    },
+    {
+      "id": "acc_59",
+      "name": "Account 59"
+    },
+    {
+      "id": "acc_60",
+      "name": "Account 60"
+    },
+    {
+      "id": "acc_61",
+      "name": "Account 61"
+    },
+    {
+      "id": "acc_62",
+      "name": "Account 62"
+    },
+    {
+      "id": "acc_63",
+      "name": "Account 63"
+    },
+    {
+      "id": "acc_64",
+      "name": "Account 64"
+    },
+    {
+      "id": "acc_65",
+      "name": "Account 65"
+    },
+    {
+      "id": "acc_66",
+      "name": "Account 66"
+    },
+    {
+      "id": "acc_67",
+      "name": "Account 67"
+    },
+    {
+      "id": "acc_68",
+      "name": "Account 68"
+    },
+    {
+      "id": "acc_69",
+      "name": "Account 69"
+    },
+    {
+      "id": "acc_70",
+      "name": "Account 70"
+    },
+    {
+      "id": "acc_71",
+      "name": "Account 71"
+    },
+    {
+      "id": "acc_72",
+      "name": "Account 72"
+    },
+    {
+      "id": "acc_73",
+      "name": "Account 73"
+    },
+    {
+      "id": "acc_74",
+      "name": "Account 74"
+    },
+    {
+      "id": "acc_75",
+      "name": "Account 75"
+    },
+    {
+      "id": "acc_76",
+      "name": "Account 76"
+    },
+    {
+      "id": "acc_77",
+      "name": "Account 77"
+    },
+    {
+      "id": "acc_78",
+      "name": "Account 78"
+    },
+    {
+      "id": "acc_79",
+      "name": "Account 79"
+    },
+    {
+      "id": "acc_80",
+      "name": "Account 80"
+    },
+    {
+      "id": "acc_81",
+      "name": "Account 81"
+    },
+    {
+      "id": "acc_82",
+      "name": "Account 82"
+    },
+    {
+      "id": "acc_83",
+      "name": "Account 83"
+    },
+    {
+      "id": "acc_84",
+      "name": "Account 84"
+    },
+    {
+      "id": "acc_85",
+      "name": "Account 85"
+    },
+    {
+      "id": "acc_86",
+      "name": "Account 86"
+    },
+    {
+      "id": "acc_87",
+      "name": "Account 87"
+    },
+    {
+      "id": "acc_88",
+      "name": "Account 88"
+    },
+    {
+      "id": "acc_89",
+      "name": "Account 89"
+    },
+    {
+      "id": "acc_90",
+      "name": "Account 90"
+    },
+    {
+      "id": "acc_91",
+      "name": "Account 91"
+    },
+    {
+      "id": "acc_92",
+      "name": "Account 92"
+    },
+    {
+      "id": "acc_93",
+      "name": "Account 93"
+    },
+    {
+      "id": "acc_94",
+      "name": "Account 94"
+    },
+    {
+      "id": "acc_95",
+      "name": "Account 95"
+    },
+    {
+      "id": "acc_96",
+      "name": "Account 96"
+    },
+    {
+      "id": "acc_97",
+      "name": "Account 97"
+    },
+    {
+      "id": "acc_98",
+      "name": "Account 98"
+    },
+    {
+      "id": "acc_99",
+      "name": "Account 99"
+    },
+    {
+      "id": "acc_100",
+      "name": "Account 100"
+    },
+    {
+      "id": "acc_101",
+      "name": "Account 101"
+    },
+    {
+      "id": "acc_102",
+      "name": "Account 102"
+    },
+    {
+      "id": "acc_103",
+      "name": "Account 103"
+    },
+    {
+      "id": "acc_104",
+      "name": "Account 104"
+    },
+    {
+      "id": "acc_105",
+      "name": "Account 105"
+    },
+    {
+      "id": "acc_106",
+      "name": "Account 106"
+    },
+    {
+      "id": "acc_107",
+      "name": "Account 107"
+    },
+    {
+      "id": "acc_108",
+      "name": "Account 108"
+    },
+    {
+      "id": "acc_109",
+      "name": "Account 109"
+    },
+    {
+      "id": "acc_110",
+      "name": "Account 110"
+    },
+    {
+      "id": "acc_111",
+      "name": "Account 111"
+    },
+    {
+      "id": "acc_112",
+      "name": "Account 112"
+    },
+    {
+      "id": "acc_113",
+      "name": "Account 113"
+    },
+    {
+      "id": "acc_114",
+      "name": "Account 114"
+    },
+    {
+      "id": "acc_115",
+      "name": "Account 115"
+    },
+    {
+      "id": "acc_116",
+      "name": "Account 116"
+    },
+    {
+      "id": "acc_117",
+      "name": "Account 117"
+    },
+    {
+      "id": "acc_118",
+      "name": "Account 118"
+    },
+    {
+      "id": "acc_119",
+      "name": "Account 119"
+    },
+    {
+      "id": "acc_120",
+      "name": "Account 120"
+    },
+    {
+      "id": "acc_121",
+      "name": "Account 121"
+    },
+    {
+      "id": "acc_122",
+      "name": "Account 122"
+    },
+    {
+      "id": "acc_123",
+      "name": "Account 123"
+    },
+    {
+      "id": "acc_124",
+      "name": "Account 124"
+    },
+    {
+      "id": "acc_125",
+      "name": "Account 125"
+    },
+    {
+      "id": "acc_126",
+      "name": "Account 126"
+    },
+    {
+      "id": "acc_127",
+      "name": "Account 127"
+    },
+    {
+      "id": "acc_128",
+      "name": "Account 128"
+    },
+    {
+      "id": "acc_129",
+      "name": "Account 129"
+    },
+    {
+      "id": "acc_130",
+      "name": "Account 130"
+    },
+    {
+      "id": "acc_131",
+      "name": "Account 131"
+    },
+    {
+      "id": "acc_132",
+      "name": "Account 132"
+    },
+    {
+      "id": "acc_133",
+      "name": "Account 133"
+    },
+    {
+      "id": "acc_134",
+      "name": "Account 134"
+    },
+    {
+      "id": "acc_135",
+      "name": "Account 135"
+    },
+    {
+      "id": "acc_136",
+      "name": "Account 136"
+    },
+    {
+      "id": "acc_137",
+      "name": "Account 137"
+    },
+    {
+      "id": "acc_138",
+      "name": "Account 138"
+    },
+    {
+      "id": "acc_139",
+      "name": "Account 139"
+    },
+    {
+      "id": "acc_140",
+      "name": "Account 140"
+    },
+    {
+      "id": "acc_141",
+      "name": "Account 141"
+    },
+    {
+      "id": "acc_142",
+      "name": "Account 142"
+    },
+    {
+      "id": "acc_143",
+      "name": "Account 143"
+    },
+    {
+      "id": "acc_144",
+      "name": "Account 144"
+    },
+    {
+      "id": "acc_145",
+      "name": "Account 145"
+    },
+    {
+      "id": "acc_146",
+      "name": "Account 146"
+    },
+    {
+      "id": "acc_147",
+      "name": "Account 147"
+    },
+    {
+      "id": "acc_148",
+      "name": "Account 148"
+    },
+    {
+      "id": "acc_149",
+      "name": "Account 149"
+    },
+    {
+      "id": "acc_150",
+      "name": "Account 150"
+    },
+    {
+      "id": "acc_151",
+      "name": "Account 151"
+    },
+    {
+      "id": "acc_152",
+      "name": "Account 152"
+    },
+    {
+      "id": "acc_153",
+      "name": "Account 153"
+    },
+    {
+      "id": "acc_154",
+      "name": "Account 154"
+    },
+    {
+      "id": "acc_155",
+      "name": "Account 155"
+    },
+    {
+      "id": "acc_156",
+      "name": "Account 156"
+    },
+    {
+      "id": "acc_157",
+      "name": "Account 157"
+    },
+    {
+      "id": "acc_158",
+      "name": "Account 158"
+    },
+    {
+      "id": "acc_159",
+      "name": "Account 159"
+    },
+    {
+      "id": "acc_160",
+      "name": "Account 160"
+    },
+    {
+      "id": "acc_161",
+      "name": "Account 161"
+    },
+    {
+      "id": "acc_162",
+      "name": "Account 162"
+    },
+    {
+      "id": "acc_163",
+      "name": "Account 163"
+    },
+    {
+      "id": "acc_164",
+      "name": "Account 164"
+    },
+    {
+      "id": "acc_165",
+      "name": "Account 165"
+    },
+    {
+      "id": "acc_166",
+      "name": "Account 166"
+    },
+    {
+      "id": "acc_167",
+      "name": "Account 167"
+    },
+    {
+      "id": "acc_168",
+      "name": "Account 168"
+    },
+    {
+      "id": "acc_169",
+      "name": "Account 169"
+    },
+    {
+      "id": "acc_170",
+      "name": "Account 170"
+    },
+    {
+      "id": "acc_171",
+      "name": "Account 171"
+    },
+    {
+      "id": "acc_172",
+      "name": "Account 172"
+    },
+    {
+      "id": "acc_173",
+      "name": "Account 173"
+    },
+    {
+      "id": "acc_174",
+      "name": "Account 174"
+    },
+    {
+      "id": "acc_175",
+      "name": "Account 175"
+    },
+    {
+      "id": "acc_176",
+      "name": "Account 176"
+    },
+    {
+      "id": "acc_177",
+      "name": "Account 177"
+    },
+    {
+      "id": "acc_178",
+      "name": "Account 178"
+    },
+    {
+      "id": "acc_179",
+      "name": "Account 179"
+    },
+    {
+      "id": "acc_180",
+      "name": "Account 180"
+    },
+    {
+      "id": "acc_181",
+      "name": "Account 181"
+    },
+    {
+      "id": "acc_182",
+      "name": "Account 182"
+    },
+    {
+      "id": "acc_183",
+      "name": "Account 183"
+    },
+    {
+      "id": "acc_184",
+      "name": "Account 184"
+    },
+    {
+      "id": "acc_185",
+      "name": "Account 185"
+    },
+    {
+      "id": "acc_186",
+      "name": "Account 186"
+    },
+    {
+      "id": "acc_187",
+      "name": "Account 187"
+    },
+    {
+      "id": "acc_188",
+      "name": "Account 188"
+    },
+    {
+      "id": "acc_189",
+      "name": "Account 189"
+    },
+    {
+      "id": "acc_190",
+      "name": "Account 190"
+    },
+    {
+      "id": "acc_191",
+      "name": "Account 191"
+    },
+    {
+      "id": "acc_192",
+      "name": "Account 192"
+    },
+    {
+      "id": "acc_193",
+      "name": "Account 193"
+    },
+    {
+      "id": "acc_194",
+      "name": "Account 194"
+    },
+    {
+      "id": "acc_195",
+      "name": "Account 195"
+    },
+    {
+      "id": "acc_196",
+      "name": "Account 196"
+    },
+    {
+      "id": "acc_197",
+      "name": "Account 197"
+    },
+    {
+      "id": "acc_198",
+      "name": "Account 198"
+    },
+    {
+      "id": "acc_199",
+      "name": "Account 199"
+    }
+  ],
+  "templates": [
+    {
+      "step": 1,
+      "name": "1st Mail - Initial Sourcing Intro & Details Request",
+      "subject": "Quality Cotton Yarns & Fabrics for [Company Name]",
+      "delayDays": 0,
+      "triggerCondition": "Immediate when status is New Lead",
+      "bodyTemplate": "Hi [Lead Name],\n\nI hope this email finds you well.\n\nI am reaching out from Lahoti Overseas Limited, one of India's leading exporters of high-quality textile raw materials, cotton yarns, synthetic yarns, and fabrics. Since 1990, we have been partnering with global textile manufacturers to supply high quality yarns to greige knitted, woven, and denim fabrics.\n\nBecause you handle high-quality textile production, I wanted to see if we could help streamline your supply chain with our spinning and weaving capabilities.\n\nTo help us share the most relevant counts, fabric specifications, and competitive pricing for your market, could you please share a few quick details with us?\n\nContact Person Responsible Name: [Contact Person]\nDirect Email ID: [Direct Email]\nPhone No/ Whats App: [Phone / WhatsApp]\nYarn Counts / Fabric Items you buy: [Yarn Counts / Items]\nApproximate Quantity (per month): [Quantity per month]\nRequired Destination Port (CNF): [Destination Port]\n\nAlternatively, if you are not the person handling sourcing, I would truly appreciate it if you could point me toward the right contact.\n\nThank you for your time, and I look forward to the possibility of working together.\n\nBest regards,\n[Sender Name]\nLahoti Overseas Limited\nExports Division | Mumbai, India"
+    },
+    {
+      "step": 2,
+      "name": "2nd Mail - 4-Day Follow-up & Value Proposition",
+      "subject": "Re: Quality Cotton Yarns & Fabrics for [Company Name] / Reliable Global Supply",
+      "delayDays": 4,
+      "triggerCondition": "If no reply/response in 4 days after 1st mail",
+      "bodyTemplate": "Hi [Prospect Name],\n\nI know how busy things get, so I wanted to quickly surface this in your inbox.\n\nI understand you likely have existing supply chains, but given our 25+ years of experience exporting premium Indian cotton yarns and fabrics globally, I am confident we can offer competitive pricing or better lead times for your production.\n\nIf you have a quick moment, could you let me know your required yarn counts/items and your preferred destination port? We'd be delighted to prepare an instant spot CNF quote for your evaluation.\n\nLooking forward to connecting with your team.\n\nBest regards,\n[Sender Name]\nLahoti Overseas Limited\nExports Division | Mumbai, India"
+    },
+    {
+      "step": 3,
+      "name": "3rd Mail - Streamlining Supply Chain & Direct Mill Pricing",
+      "subject": "Streamlining your yarn supply chain / [Company Name]",
+      "delayDays": 4,
+      "triggerCondition": "If no reply/response in 4 days after 2nd mail",
+      "bodyTemplate": "Hi [Prospect Name],\n\nFollowing up on my previous messages regarding cotton yarn and fabric sourcing from Lahoti Overseas Limited.\n\nWe are currently supporting textile mills and garment manufacturers across 40+ countries with prompt container shipments of Ring Spun, Compact, Open End, and Melange yarns at direct mill pricing.\n\nWould you be open for a quick 5-minute introductory call or WhatsApp chat this week to see if we can provide cost savings on your upcoming monthly requirements?\n\nLooking forward to hearing from you.\n\nBest regards,\n[Sender Name]\nLahoti Overseas Limited\nExports Division | Mumbai, India"
+    }
+  ],
+  "virtualOffsetDays": 0,
+  "lastBatchRunAt": "2026-10-24T07:14:19.249Z"
+}
